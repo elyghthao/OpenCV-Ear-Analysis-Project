@@ -17,9 +17,6 @@ When dealing with image processing, it is very important to have a standardized 
 
 A lot of the lessons in the class were easily reviewed and reapplied in our learning throughout this project. From using opencv methods to create different types of images(edge detection, blurs), all the way to what we had learned recently in our lectures about stereo vision.
 
-
-We underestimated how difficult it would be to do this project, which we thought could initially be solved using a couple of image key features detection and matching. The scope and difficulty of the project grew at an incredible rate as we progressed through our project encountering problem after problem and this was something we were not expecting. It eventually led us to our current point of not being able to fully complete the project and while means we didn't accomplish our initial goal, we had learned so much more about opencv than we had previously.
-
  # The Project
 The basis behind this project was to create an image identification program that could identify ears without relying on any ai neural networking. Our process was long, but the end results reached a point that could easily be expanded on into a fully developed program fully tuned to identifying ears. 
   
