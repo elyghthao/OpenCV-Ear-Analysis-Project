@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(130,55): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(135,52): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(514,51): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(514,29): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(553,34): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(553,31): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\FinalProgram\main.cpp(709,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FinalProgram.vcxproj -> C:\Users\Elygh Thao\Desktop\CSS487-FinalProgram\x64\Debug\FinalProgram.exe
