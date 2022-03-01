@@ -1,2 +1,2 @@
 # OpenCV-Ear-Analysis-Project
-![Ear image](relative/path/to/img.jpg?raw=true "Title")
+https://docs.google.com/viewer?url=https://github.com/elyghthao/OpenCV-Ear-Detection-and-Verification/blob/main/Final%20Project%20-%20Ear%20Detection%20and%20Verification.pdf
